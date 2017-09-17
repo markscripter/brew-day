@@ -1,0 +1,85 @@
+{
+  "name": "Ace of Spades",
+  "details": {
+    "originalGravity": "1.068",
+    "finalGravity": "",
+    "alcoholByVolume": "",
+    "internationalBitteringUnits": ""
+  },
+  "fermentation": {
+    "primary": {
+      "temperature": "65-75 deg f",
+      "length": "2 weeks"
+    },
+    "secondary": {
+      "temperature": "65-75 deg F",
+      "length": "4 weeks"
+    }
+  },
+  "ingredients": {
+    "grains": [
+      {
+        "type": "Briess 2-row",
+        "amount": "12 lbs"
+      },
+      {
+        "type": "Briess Midnight Wheat",
+        "amount": "0.875 lbs"
+      },
+      {
+        "type": "Caramunich III",
+        "amount": "1 lbs"
+      }
+    ],
+    "hops": [
+      {
+        "type": "Magnum",
+        "amount": "0.5 oz",
+        "time": "60 min"
+      },
+      {
+        "type": "Chinook",
+        "amount": "1 oz",
+        "time": "20 min"
+      },
+      {
+        "type": "Centennial",
+        "amount": "0.5 oz",
+        "time": "20 min"
+      },
+      {
+        "type": "Centennial",
+        "amount": "1.5 oz",
+        "time": "5 min"
+      },
+      {
+        "type": "Citra",
+        "amount": "1.0 oz",
+        "time": "Dry hop 2 weeks before keg"
+      },
+      {
+        "type": "Centennial",
+        "amount": "1.0 oz",
+        "time": "Dry hop 2 weeks before keg"
+      }
+    ],
+    "yeast": [
+      {
+        "type": "Safale US-05 Ale Yeast",
+        "amount": "1 pack"
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "mash": "Rest",
+      "temperature": "68 deg C",
+      "time": "60 min"
+    },
+    {
+      "mash": "Mashout",
+      "temperature": "77 deg C",
+      "time": "10 min"
+    }
+  ]
+}

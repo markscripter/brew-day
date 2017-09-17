@@ -1,0 +1,75 @@
+{
+  "name": "Chinook IPA",
+  "details": {
+    "originalGravity": "1.053",
+    "finalGravity": "",
+    "alcoholByVolume": "",
+    "internationalBitteringUnits": ""
+  },
+  "fermentation": {
+    "primary": {
+      "temperature": "59-75% F",
+      "length": "2 Weeks"
+    },
+    "secondary": {
+      "temperature": "59-75% F",
+      "length": "2 weeks"
+    }
+  },
+  "ingredients": {
+    "grains": [
+      {
+        "type": "Rahr 2-row Pale",
+        "amount": "10 lbs"
+      },
+      {
+        "type": "Belgian cara 8",
+        "amount": "0.75 lbs"
+      },
+      {
+        "type": "Briess Caramel 120",
+        "amount": "0.25 lbs"
+      }
+    ],
+    "hops": [
+      {
+        "type": "Chinook",
+        "amount": "1 oz",
+        "time": "60 min"
+      },
+      {
+        "type": "Chinook",
+        "amount": "0.5 oz",
+        "time": "10 min"
+      },
+      {
+        "type": "Chinook",
+        "amount": "0.5 oz",
+        "time": "1 min"
+      },
+      {
+        "type": "Chinook",
+        "amount": "1 oz",
+        "time": "Dry Hop 1 week in secondary"
+      }
+    ],
+    "yeast": [
+      {
+        "type": "Safale US-05 Ale Yeast",
+        "amount": "1 Pack"
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "mash": "Rest",
+      "temperature": "67 deg celsius",
+      "time": "60 min"
+    },
+    {
+      "mash": "Mashout",
+      "temperature": "77 deg celsius",
+      "time": "10 min"
+    }
+  ]
+}

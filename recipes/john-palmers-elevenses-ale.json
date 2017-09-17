@@ -1,0 +1,71 @@
+{
+  "name": "John Palmer's Elevenses Ale",
+  "details": {
+    "originalGravity": "1.045",
+    "finalGravity": "",
+    "alcoholByVolume": "",
+    "internationalBitteringUnits": ""
+  },
+  "notes": [
+    "Toast the oats before mashing them. Lay them flat on a baking sheet and cook for 5-15 min at 300-350 deg F. DO NOT BURN!!!"
+  ],
+  "fermentation": {
+    "primary": {
+      "temperature": "64 - 75 deg F",
+      "length": "2 weeks"
+    }
+  },
+  "ingredients": {
+    "grains": [
+      {
+        "type": "Maris Otter",
+        "amount": "5.5 lbs"
+      },
+      {
+        "type": "Briess Caramel 60",
+        "amount": "1 lbs"
+      },
+      {
+        "type": "Weyermann Oak-Smoked Wheat Malt",
+        "amount": "1 lbs"
+      },
+      {
+        "type": "English Brown Malt",
+        "amount": "0.5 lbs"
+      },
+      {
+        "type": "Flaked Oats",
+        "amount": "0.33 lbs"
+      },
+      {
+        "type": "Chocolate Malt",
+        "amount": "0.25 lbs"
+      }
+    ],
+    "hops": [
+      {
+        "type": "German Nortern Brewer",
+        "amount": "0.60 oz",
+        "time": "60 min"
+      }
+    ],
+    "yeast": [
+      {
+        "type": "Safale S-04 Ale Yeast",
+        "amount": "1 pack"
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "mash": "Rest",
+      "temperature": "68 deg C",
+      "time": "60 min"
+    },
+    {
+      "mash": "Mashout",
+      "temperature": "77 deg c",
+      "time": "10"
+    }
+  ]
+}
