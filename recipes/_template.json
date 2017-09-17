@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "details": {
+    "originalGravity": "",
+    "finalGravity": "",
+    "alcoholByVolume": "",
+    "internationalBitteringUnits": ""
+  },
+  "fermentation": {
+    "primary": {
+      "temperature": "",
+      "length": ""
+    },
+    "secondary": {
+      "temperature": "",
+      "length": ""
+    }
+  },
+  "ingredients": {
+    "grains": [
+      {
+        "type": "",
+        "amount": ""
+      }
+    ],
+    "hops": [
+      {
+        "type": "",
+        "amount": "",
+        "time": ""
+      }
+    ],
+    "yeast": [
+      {
+        "type": "",
+        "amount": ""
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "mash": "Rest",
+      "temperature": "",
+      "time": ""
+    },
+    {
+      "mash": "",
+      "temperature": "",
+      "time": ""
+    }
+  ]
+}

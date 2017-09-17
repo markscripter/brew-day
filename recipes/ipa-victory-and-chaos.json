@@ -1,0 +1,67 @@
+{
+  "name": "Victory & Chaos",
+  "length": "6 weeks",
+  "details": {
+    "originalGravity": 1.052,
+    "finalGravity": 1.020,
+    "alcoholByVolume": 6.7,
+    "internationalBitteringUnits": ""
+  },
+  "fermentation": {
+    "primary": {
+      "temperature": "65 def F",
+      "length": "1 Week"
+    },
+    "secondary": {
+      "temperature": "65 def F",
+      "length": "2 Weeks",
+      "notes": "Dry hop last ounce"
+    }
+  },
+  "ingredients": {
+    "grains": [
+      {
+        "type": "British Pale Ale Malt",
+        "amount": 10
+      },
+      {
+        "type": "Crystal 20L",
+        "amount": 0.5
+      },
+      {
+        "type": "Munich Malt",
+        "amount": 0.5
+      }
+    ],
+    "hops": [
+      {
+        "type": "Nugget",
+        "amount": "1 oz",
+        "time": "60 min"
+      },
+      {
+        "type": "EK Golding",
+        "amount": "2 oz",
+        "time": "15 min"
+      },
+      {
+        "type": "EK Golding",
+        "amount": "1 oz",
+        "time": "Dry Hopped"
+      }
+    ],
+    "yeast": [
+      {
+        "type": "White Labs P013 London Ale",
+        "amount": "2 Packs"
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "mash": "Rest",
+      "temperature": "152 deg F",
+      "time": "60M"
+    }
+  ]
+}

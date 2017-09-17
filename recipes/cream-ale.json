@@ -1,0 +1,61 @@
+{
+  "name": "Cream Ale (Norther Brewer)",
+  "length": "4 weeks",
+  "details": {
+    "originalGravity": "1.040",
+    "finalGravity": "",
+    "alcoholByVolume": "",
+    "internationalBitteringUnits": ""
+  },
+  "fermentation": {
+    "primary": {
+      "temperature": "",
+      "length": ""
+    },
+    "secondary": {
+      "temperature": "",
+      "length": ""
+    }
+  },
+  "ingredients": {
+    "grains": [
+      {
+        "type": "Rahr 2-Row Pale",
+        "amount": "7 lbs."
+      },
+      {
+        "type": "Gambrinus Honey Malt",
+        "amount": "0.75 lbs"
+      },
+      {
+        "type": "Belgian Biscuit Malt",
+        "amount": "0.25 lbs"
+      }
+    ],
+    "hops": [
+      {
+        "type": "Cluster",
+        "amount": "1 oz",
+        "time": "60 min"
+      }
+    ],
+    "yeast": [
+      {
+        "type": "Wyeast-1056-American-Ale",
+        "amount": "1 package"
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "mash": "Sacch' Rest",
+      "temperature": "150 deg F",
+      "time": "60 min"
+    },
+    {
+      "mash": "Mash Out",
+      "temperature": "170 deg F",
+      "time": "10 min"
+    }
+  ]
+}
